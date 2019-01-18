@@ -1,0 +1,21 @@
+#webInfo {
+    background: lightgreen;
+    color: darkblue;
+    border: 2px solid;
+    border-radius: 5px;
+    margin: 5px 0;
+    padding: 10px;
+    width: 50vw;
+}
+#webInfo>div{
+    border-bottom: 1px dashed;
+    margin-bottom: 1em;
+}
+body {
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+button {
+    border-radius: 5px;
+    font-weight: bold;
+}
